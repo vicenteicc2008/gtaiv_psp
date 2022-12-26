@@ -1,4 +1,4 @@
-# gtaiv_psp_port
+# gtaiv_psp
 GTA IV on PSP
 
 ## Status
